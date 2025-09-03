@@ -1,0 +1,11 @@
+body 
+{
+    background-color: linen;
+    text-align: center;
+    justify-content: center;
+    max-height: 900px;
+    font-family: "Archivo black", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-top: 50px;
+}
