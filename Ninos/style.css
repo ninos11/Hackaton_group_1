@@ -5,3 +5,23 @@ body
     justify-content: center;
     align-items: center;
 }
+
+.container {
+    position: relative;
+    width: min(90vw, 500px);
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 35px 55px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    overflow: hidden; 
+}
+
+.container .upper_part img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin-bottom: 20px; 
+}
