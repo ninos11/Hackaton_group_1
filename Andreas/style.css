@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+    max-height: 800px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+h1 {
+    font-family: "Fontdiner Swanky", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 75px;
+    display: block;
+    margin-left: 2.5%;
+    margin-right: auto;
+}
+
+h2 {
+    margin-top: -1px;
+    text-align: center;
+    font-size: 35px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: 2.5%;
+    width: 15%;
+    border-radius: 20%;
+}
+
+header {
+    margin-top: 10%;
+    margin-bottom: -1px;
+    display: flex;
+}
+
+div {
+    display: flex;
+}
+
+p {
+    display: block;
+    margin-left: 13%;
+    margin-right: 10%;
+}
+
+.nere {
+    margin-top: 10%;
+}
+
+.knapp {
+    background-color: white;
+    color: black;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5%;
+}
+
+a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
